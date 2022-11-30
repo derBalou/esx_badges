@@ -37,7 +37,8 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-further-links">Starting</a> &#xa0; | &#xa0;
+  <a href="#wrench-usage">Usage</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-further_-_links">Further Links</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/derBalou" target="_blank">Author</a>
 </p>
