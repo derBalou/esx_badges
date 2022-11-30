@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/derBalou/esx_badges?color=56BEB8&style=for-the-badge">
 
-  <img alt="License" src="https://img.shields.io/badge/license-BEERWARE-56BEB8&style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/license-BEERWARE-56BEB8?style=for-the-badge">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/derBalou/esx_badges?color=56BEB8" /> -->
 
